@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         self.myLabel.text = "EGE"
         self.myButton.tintColor = UIColor.red
+        // MY FIRST COMMIT BITCHESSSSSSS
     }
     
     @IBAction func clickTapped(_ sender: Any) {
